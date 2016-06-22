@@ -1,0 +1,11 @@
+{
+  "name": "node_workshop",
+  "version": "0.1.0",
+  "description": "Simple project package for the node workshop",
+  "main": "index.js",
+  "dependencies": {
+    "request-promise": "3.0.0"
+  },
+  "author": "Loïc Prieto <loic.prieto@capside.com>",
+  "license": "MIT"
+}
